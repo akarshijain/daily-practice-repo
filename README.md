@@ -26,6 +26,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 ## Sorting
 |  |
 | ------- |
@@ -42,4 +43,24 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/0657-robot-return-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
