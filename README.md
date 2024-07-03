@@ -27,11 +27,13 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akarshijain/daily-practice-repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akarshijain/daily-practice-repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Sorting
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akarshijain/daily-practice-repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -70,4 +72,8 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akarshijain/daily-practice-repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Greedy
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akarshijain/daily-practice-repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
