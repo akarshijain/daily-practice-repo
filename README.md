@@ -81,12 +81,14 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -94,6 +96,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -113,4 +116,5 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
