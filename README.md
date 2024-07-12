@@ -54,6 +54,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akarshijain/daily-practice-repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -79,6 +80,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -91,6 +93,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -106,4 +109,8 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akarshijain/daily-practice-repo/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
