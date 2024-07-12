@@ -1,5 +1,6 @@
 class Solution:
-    cache = {}
+    def __init__(self):
+        self.cache = {}
 
     def climbStairs(self, n: int) -> int:
         if n == 1:
