@@ -26,6 +26,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0039-combination-sum) |
+| [1127-last-stone-weight](https://github.com/akarshijain/daily-practice-repo/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akarshijain/daily-practice-repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -39,6 +40,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/akarshijain/daily-practice-repo/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
