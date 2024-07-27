@@ -26,6 +26,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0039-combination-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/akarshijain/daily-practice-repo/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
@@ -34,12 +35,14 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Sorting
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akarshijain/daily-practice-repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/akarshijain/daily-practice-repo/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## String
@@ -119,6 +122,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akarshijain/daily-practice-repo/tree/master/0070-climbing-stairs) |
+| [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,4 +148,16 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0039-combination-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
