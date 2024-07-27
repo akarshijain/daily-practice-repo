@@ -58,6 +58,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/akarshijain/daily-practice-repo/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
@@ -68,11 +69,13 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/akarshijain/daily-practice-repo/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/akarshijain/daily-practice-repo/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
@@ -165,4 +168,5 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/akarshijain/daily-practice-repo/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
