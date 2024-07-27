@@ -25,6 +25,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0039-combination-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/akarshijain/daily-practice-repo/tree/master/1127-last-stone-weight) |
@@ -160,4 +161,8 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
