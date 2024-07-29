@@ -143,6 +143,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0094-binary-tree-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akarshijain/daily-practice-repo/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/akarshijain/daily-practice-repo/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
@@ -151,6 +152,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0102-binary-tree-level-order-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akarshijain/daily-practice-repo/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/akarshijain/daily-practice-repo/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Backtracking
@@ -183,4 +185,12 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/1171-shortest-path-in-binary-matrix) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/akarshijain/daily-practice-repo/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/akarshijain/daily-practice-repo/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
