@@ -27,6 +27,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0001-two-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0039-combination-sum) |
+| [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/akarshijain/daily-practice-repo/tree/master/1127-last-stone-weight) |
@@ -144,6 +145,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0112-path-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/akarshijain/daily-practice-repo/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/akarshijain/daily-practice-repo/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
@@ -154,6 +156,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0112-path-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/akarshijain/daily-practice-repo/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/akarshijain/daily-practice-repo/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -182,10 +185,12 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Graph
