@@ -39,6 +39,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akarshijain/daily-practice-repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -53,6 +54,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/akarshijain/daily-practice-repo/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/0657-robot-return-to-origin) |
 ## Simulation
 |  |
@@ -194,6 +196,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0001-two-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/akarshijain/daily-practice-repo/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
 ## Union Find
 |  |
 | ------- |
