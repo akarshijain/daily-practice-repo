@@ -103,6 +103,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0199-binary-tree-right-side-view](https://github.com/akarshijain/daily-practice-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -124,6 +125,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0199-binary-tree-right-side-view](https://github.com/akarshijain/daily-practice-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -151,6 +153,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/akarshijain/daily-practice-repo/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
@@ -206,4 +209,12 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/akarshijain/daily-practice-repo/tree/master/0207-course-schedule) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
