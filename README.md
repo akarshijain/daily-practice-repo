@@ -30,6 +30,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/akarshijain/daily-practice-repo/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/akarshijain/daily-practice-repo/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -173,6 +174,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/akarshijain/daily-practice-repo/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/akarshijain/daily-practice-repo/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Backtracking
 |  |
@@ -207,6 +209,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/akarshijain/daily-practice-repo/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Graph
 |  |
