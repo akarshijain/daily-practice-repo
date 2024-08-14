@@ -1,42 +1,38 @@
 class Solution:
     def __init__(self):
+        self.area = 0
         self.visit = set()
 
-    def bfs(self, grid, row, col):
-
+    def bfs(self, row, col, grid):
         area = 1
+        island = collections.deque()
+
+        island.append((row, col))
         self.visit.add((row, col))
 
-        island_q = collections.deque()
-        island_q.append((row, col))
+        directions = [[1, 0], [0, 1], [-1, 0], [0, -1]]
 
-        directions = [[0, 1], [0, -1], [1, 0], [-1, 0]]
-
-        while island_q:
-            r, c = island_q.popleft()
+        while island:
+            r, c = island.popleft()
             for dr, dc in directions:
                 row, col = r + dr, c + dc
-                if row in range(len(grid)) and col in range(len(grid[0])) \
-                                   and grid[row][col] == 1 \
-                                   and (row, col) not in self.visit:
-                    area += 1
+
+                if row in range(len(grid)) \
+                    and col in range(len(grid[0])) \
+                    and grid[row][col] == 1 \
+                    and (row, col) not in self.visit:
+
+                    island.append((row, col))
                     self.visit.add((row, col))
-                    island_q.append((row, col))
+
+                    area += 1
 
         return area
 
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
-        area = 0
+        for i in range(len(grid)):
+            for j in range (len(grid[0])):
+                if grid[i][j] == 1 and (i, j) not in self.visit:
+                    self.area = max(self.area, self.bfs(i, j, grid))
 
-        rows = len(grid)
-        cols = len(grid[0])
-
-        for r in range(rows):
-            for c in range(cols):
-                if grid[r][c] == 1 and (r,c) not in self.visit:
-                    area = max(area, self.bfs(grid, r, c))
-
-        return area
-
-
-        
+        return self.area
