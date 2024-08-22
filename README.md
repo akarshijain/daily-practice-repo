@@ -111,6 +111,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0199-binary-tree-right-side-view](https://github.com/akarshijain/daily-practice-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -134,6 +135,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0199-binary-tree-right-side-view](https://github.com/akarshijain/daily-practice-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -170,6 +172,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0261-graph-valid-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akarshijain/daily-practice-repo/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
