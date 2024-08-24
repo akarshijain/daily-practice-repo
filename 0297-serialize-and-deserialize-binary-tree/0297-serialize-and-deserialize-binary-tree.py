@@ -39,7 +39,6 @@ class Codec:
         """
 
         vals = data.split(",")
-        print(vals)
 
         if vals[0] == "N":
             return None
@@ -51,8 +50,6 @@ class Codec:
                 nodes.append(TreeNode("null"))  
             else:
                 nodes.append(TreeNode(val))
-
-        print(len(nodes))
 
         i = 0
         for node in nodes:
