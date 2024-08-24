@@ -26,8 +26,6 @@ class Solution:
 
         self.maxSum = max(self.maxSum, subSum)
 
-        print(root.val, subtreeSum, maxBranchSum, self.maxSum)
-
         return maxBranchSum
 
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
