@@ -28,7 +28,6 @@ class Codec:
             q.append(curr.left)
             q.append(curr.right)
 
-        print(",".join(output))
         return ",".join(output)
 
 
