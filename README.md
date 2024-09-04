@@ -82,12 +82,14 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/akarshijain/daily-practice-repo/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akarshijain/daily-practice-repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -302,6 +304,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0011-container-with-most-water](https://github.com/akarshijain/daily-practice-repo/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/akarshijain/daily-practice-repo/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -318,4 +321,8 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akarshijain/daily-practice-repo/tree/master/0238-product-of-array-except-self) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
