@@ -30,6 +30,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0015-3sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshijain/daily-practice-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/0213-house-robber-ii) |
@@ -186,6 +187,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0062-unique-paths](https://github.com/akarshijain/daily-practice-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akarshijain/daily-practice-repo/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshijain/daily-practice-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/0213-house-robber-ii) |
 ## Memoization
