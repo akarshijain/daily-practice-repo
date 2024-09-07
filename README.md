@@ -70,6 +70,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akarshijain/daily-practice-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/akarshijain/daily-practice-repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
@@ -261,6 +262,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akarshijain/daily-practice-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0133-clone-graph) |
@@ -339,4 +341,8 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akarshijain/daily-practice-repo/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akarshijain/daily-practice-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
