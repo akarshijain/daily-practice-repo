@@ -28,6 +28,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0001-two-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/akarshijain/daily-practice-repo/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshijain/daily-practice-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -151,6 +152,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
