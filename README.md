@@ -31,6 +31,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0033-search-in-rotated-sorted-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshijain/daily-practice-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -74,6 +75,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akarshijain/daily-practice-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/akarshijain/daily-practice-repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/akarshijain/daily-practice-repo/tree/master/0271-encode-and-decode-strings) |
@@ -248,6 +250,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -287,6 +290,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/akarshijain/daily-practice-repo/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akarshijain/daily-practice-repo/tree/master/0417-pacific-atlantic-water-flow) |
