@@ -1,10 +1,11 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        rob1, rob2 = 0, 0
+        sum1, sum2 = 0, 0
+        result = -1
 
-        for n in nums:
-            temp = max(n + rob1, rob2)
-            rob1 = rob2
-            rob2 = temp
+        for num in nums:
+            result = max(num + sum1, sum2)
+            sum1 = sum2
+            sum2 = result
 
-        return rob2
+        return result
