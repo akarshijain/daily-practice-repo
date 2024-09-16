@@ -76,6 +76,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akarshijain/daily-practice-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/akarshijain/daily-practice-repo/tree/master/0125-valid-palindrome) |
@@ -196,6 +197,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/akarshijain/daily-practice-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akarshijain/daily-practice-repo/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshijain/daily-practice-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -325,6 +327,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/akarshijain/daily-practice-repo/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0019-remove-nth-node-from-end-of-list) |
