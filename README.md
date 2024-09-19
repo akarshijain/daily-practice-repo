@@ -78,6 +78,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0003-longest-substring-without-repeating-characters](https://github.com/akarshijain/daily-practice-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/akarshijain/daily-practice-repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
@@ -278,6 +279,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0001-two-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akarshijain/daily-practice-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/akarshijain/daily-practice-repo/tree/master/0141-linked-list-cycle) |
@@ -363,5 +365,6 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akarshijain/daily-practice-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/akarshijain/daily-practice-repo/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
