@@ -85,6 +85,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0271-encode-and-decode-strings](https://github.com/akarshijain/daily-practice-repo/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/akarshijain/daily-practice-repo/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/akarshijain/daily-practice-repo/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/0657-robot-return-to-origin) |
 ## Simulation
 |  |
@@ -205,6 +206,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0124-binary-tree-maximum-path-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/akarshijain/daily-practice-repo/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/0213-house-robber-ii) |
+| [0647-palindromic-substrings](https://github.com/akarshijain/daily-practice-repo/tree/master/0647-palindromic-substrings) |
 ## Memoization
 |  |
 | ------- |
@@ -337,6 +339,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0141-linked-list-cycle](https://github.com/akarshijain/daily-practice-repo/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akarshijain/daily-practice-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0647-palindromic-substrings](https://github.com/akarshijain/daily-practice-repo/tree/master/0647-palindromic-substrings) |
 ## Combinatorics
 |  |
 | ------- |
