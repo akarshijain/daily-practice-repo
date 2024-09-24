@@ -46,6 +46,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0347-top-k-frequent-elements](https://github.com/akarshijain/daily-practice-repo/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akarshijain/daily-practice-repo/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/akarshijain/daily-practice-repo/tree/master/0739-daily-temperatures) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/akarshijain/daily-practice-repo/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/akarshijain/daily-practice-repo/tree/master/1127-last-stone-weight) |
@@ -108,6 +109,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/akarshijain/daily-practice-repo/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akarshijain/daily-practice-repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -375,4 +377,8 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0003-longest-substring-without-repeating-characters](https://github.com/akarshijain/daily-practice-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/akarshijain/daily-practice-repo/tree/master/0424-longest-repeating-character-replacement) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/akarshijain/daily-practice-repo/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
