@@ -42,6 +42,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0238-product-of-array-except-self](https://github.com/akarshijain/daily-practice-repo/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/akarshijain/daily-practice-repo/tree/master/0271-encode-and-decode-strings) |
 | [0286-walls-and-gates](https://github.com/akarshijain/daily-practice-repo/tree/master/0286-walls-and-gates) |
+| [0322-coin-change](https://github.com/akarshijain/daily-practice-repo/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/akarshijain/daily-practice-repo/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akarshijain/daily-practice-repo/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
@@ -208,6 +209,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0124-binary-tree-maximum-path-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/akarshijain/daily-practice-repo/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/akarshijain/daily-practice-repo/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/akarshijain/daily-practice-repo/tree/master/0647-palindromic-substrings) |
 ## Memoization
 |  |
@@ -252,6 +254,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0261-graph-valid-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0261-graph-valid-tree) |
 | [0286-walls-and-gates](https://github.com/akarshijain/daily-practice-repo/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/akarshijain/daily-practice-repo/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akarshijain/daily-practice-repo/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
