@@ -80,6 +80,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/akarshijain/daily-practice-repo/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/akarshijain/daily-practice-repo/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/akarshijain/daily-practice-repo/tree/master/0271-encode-and-decode-strings) |
@@ -202,6 +203,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0005-longest-palindromic-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/akarshijain/daily-practice-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akarshijain/daily-practice-repo/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/akarshijain/daily-practice-repo/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshijain/daily-practice-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/akarshijain/daily-practice-repo/tree/master/0198-house-robber) |
