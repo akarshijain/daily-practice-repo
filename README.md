@@ -31,6 +31,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0033-search-in-rotated-sorted-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshijain/daily-practice-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0128-longest-consecutive-sequence) |
@@ -165,6 +166,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akarshijain/daily-practice-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -311,6 +313,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/akarshijain/daily-practice-repo/tree/master/0286-walls-and-gates) |
