@@ -229,6 +229,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0213-house-robber-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akarshijain/daily-practice-repo/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/akarshijain/daily-practice-repo/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/akarshijain/daily-practice-repo/tree/master/1250-longest-common-subsequence) |
 ## Memoization
@@ -414,4 +415,5 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
