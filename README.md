@@ -97,6 +97,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0424-longest-repeating-character-replacement](https://github.com/akarshijain/daily-practice-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/akarshijain/daily-practice-repo/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/0657-robot-return-to-origin) |
+| [1250-longest-common-subsequence](https://github.com/akarshijain/daily-practice-repo/tree/master/1250-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -229,6 +230,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0300-longest-increasing-subsequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akarshijain/daily-practice-repo/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/akarshijain/daily-practice-repo/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/akarshijain/daily-practice-repo/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
