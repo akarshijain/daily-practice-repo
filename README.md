@@ -293,6 +293,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akarshijain/daily-practice-repo/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/akarshijain/daily-practice-repo/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
@@ -414,6 +415,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
