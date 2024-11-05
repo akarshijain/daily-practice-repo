@@ -5,25 +5,30 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isSame(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]):
+    def match_trees(self, root, subRoot):
         if not root and not subRoot:
             return True
 
-        if root and subRoot and root.val == subRoot.val:
-            return (self.isSame(root.right, subRoot.right) \
-                    and self.isSame(root.left, subRoot.left))
+        if not root or not subRoot:
+            return False
 
-        return False
- 
+        if root.val != subRoot.val:
+            return False
+
+        left = self.match_trees(root.left, subRoot.left)
+        right = self.match_trees(root.right, subRoot.right)
+
+        return left and right
+
+
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
         if not root:
             return False
 
-        if not subRoot:
+        if self.match_trees(root, subRoot):
             return True
 
-        if self.isSame(root, subRoot):
-            return True
+        left = self.isSubtree(root.left, subRoot)
+        right = self.isSubtree(root.right, subRoot)
 
-        return (self.isSubtree(root.right, subRoot) \
-                    or self.isSubtree(root.left, subRoot))
+        return left or right
