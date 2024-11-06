@@ -5,23 +5,20 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def dfs(self, first_tree, second_tree):
-        if not first_tree and not second_tree:
+    def dfs(self, root, subRoot):
+        if not root and not subRoot:
             return True
 
-        if not first_tree or not second_tree:
+        if not root or not subRoot:
             return False
 
-        if first_tree.val != second_tree.val:
+        if root.val != subRoot.val:
             return False
 
-        left = self.dfs(first_tree.left, second_tree.left)
-        right = self.dfs(first_tree.right, second_tree.right)
+        left = self.dfs(root.left, subRoot.left)
+        right = self.dfs(root.right, subRoot.right)
 
-        if not left or not right:
-            return False
-
-        return True
+        return left and right
 
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
         return self.dfs(p, q)
