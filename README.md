@@ -53,6 +53,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/akarshijain/daily-practice-repo/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/akarshijain/daily-practice-repo/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/akarshijain/daily-practice-repo/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/akarshijain/daily-practice-repo/tree/master/1127-last-stone-weight) |
@@ -192,6 +193,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/akarshijain/daily-practice-repo/tree/master/0907-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
