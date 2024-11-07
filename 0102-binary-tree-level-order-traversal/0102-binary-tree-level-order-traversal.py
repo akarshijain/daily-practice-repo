@@ -6,25 +6,28 @@
 #         self.right = right
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        
-        answer = []
-        binary_tree_nodes_q = deque()
+        if not root:
+            return []
 
-        if root:
-            binary_tree_nodes_q.append(root)
+        node_q = deque()
+        node_q.append(root)
 
-        while len(binary_tree_nodes_q) > 0:
-            level_order_traversal = []
-            for i in range(len(binary_tree_nodes_q)):
-                curr = binary_tree_nodes_q.popleft()
-                level_order_traversal.append(curr.val)
+        level_order_values = []
 
-                if curr.left:
-                    binary_tree_nodes_q.append(curr.left)
+        while node_q:
+            nodes_in_level = []
+
+            for i in range(len(node_q)):
+                node = node_q.popleft()
+                nodes_in_level.append(node.val)
+
+                if node.left:
+                    node_q.append(node.left)
                 
-                if curr.right:
-                    binary_tree_nodes_q.append(curr.right)
+                if node.right:
+                    node_q.append(node.right)
 
-            answer.append(level_order_traversal)
+            level_order_values.append(nodes_in_level)
 
-        return answer
+        return level_order_values
+
