@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def match_trees(self, root, subRoot):
+    def dfs(self, root, subRoot):
         if not root and not subRoot:
             return True
 
@@ -15,17 +15,20 @@ class Solution:
         if root.val != subRoot.val:
             return False
 
-        left = self.match_trees(root.left, subRoot.left)
-        right = self.match_trees(root.right, subRoot.right)
+        left = self.dfs(root.left, subRoot.left)
+        right = self.dfs(root.right, subRoot.right)
 
         return left and right
 
 
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
+        if not subRoot:
+            return True
+
         if not root:
             return False
 
-        if self.match_trees(root, subRoot):
+        if self.dfs(root, subRoot):
             return True
 
         left = self.isSubtree(root.left, subRoot)
