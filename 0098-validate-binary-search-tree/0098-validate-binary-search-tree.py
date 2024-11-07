@@ -5,15 +5,17 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def inRange(self, root, leftBoundary, rightBoundary):
-        if not root:
+    def dfs(self, node, min_val, max_val):
+        if not node:
             return True
 
-        if not (leftBoundary < root.val < rightBoundary):
+        if not (min_val < node.val < max_val):
             return False
 
-        return self.inRange(root.right, root.val, rightBoundary) \
-               and self.inRange(root.left, leftBoundary, root.val)
+        left = self.dfs(node.left, min_val, node.val)
+        right = self.dfs(node.right, node.val, max_val)
+
+        return left and right
 
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        return self.inRange(root, float("-inf"), float("inf"))
+        return self.dfs(root, float("-inf"), float("inf"))
