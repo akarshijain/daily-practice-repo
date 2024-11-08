@@ -90,6 +90,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akarshijain/daily-practice-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/akarshijain/daily-practice-repo/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
@@ -120,6 +121,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akarshijain/daily-practice-repo/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/akarshijain/daily-practice-repo/tree/master/0739-daily-temperatures) |
