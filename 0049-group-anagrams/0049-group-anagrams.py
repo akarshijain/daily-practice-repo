@@ -1,18 +1,24 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        group_anagram = []
         anagram_map = {}
 
         for word in strs:
-            sorted_word = ''.join(sorted(word))
-            if sorted_word in anagram_map:
-                anagram_map[sorted_word].append(word)
-            else:
-                anagram_map[sorted_word] = [word]
+            key = [0] * 26
+            for char in word:
+                key[ord(char) - ord('a')] += 1
 
-        for anagram in anagram_map:
-            group_anagram.append(anagram_map[anagram])
+            # anagram_key = ''.join(str(k) for k in key) # Always use tuple for 
+                                                         # dict keys because they 
+                                                         # are hashable and immutable. 
+                                                         # List cannot be used. 
+                                                         # Here 10 is being treated 
+                                                         # as 1 and 0 producing the same 
+                                                         # key for ["bdddddddddd","bbbbbbbbbbc"].
+            anagram_key = tuple(key)
+            
+            if anagram_key not in anagram_map:
+                anagram_map[anagram_key] = []
 
-        return group_anagram
+            anagram_map[anagram_key].append(word)
 
-        
+        return list(anagram_map.values())
