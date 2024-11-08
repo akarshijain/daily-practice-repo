@@ -1,21 +1,25 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        anagram_map = {}
+        word_map = {}
 
         for char in s:
-            if char not in anagram_map:
-                anagram_map[char] = 1
+            if char in word_map:
+                word_map[char] += 1
+
             else:
-                anagram_map[char] += 1
+                word_map[char] = 1
 
         for char in t:
-            if char not in anagram_map:
-                return False
-            else:
-                anagram_map[char] -= 1
+            if char in word_map:
+                word_map[char] -= 1
 
-        for char in anagram_map:
-            if anagram_map[char] != 0:
+            else:
+                return False
+
+        for char in word_map:
+            if word_map[char] != 0:
                 return False
 
         return True
+
+        
