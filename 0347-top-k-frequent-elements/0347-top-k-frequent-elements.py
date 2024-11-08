@@ -1,25 +1,34 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        
-        num_map = {}
-        result = []
+        # [1, 2, 2, 3, 3, 3, 4] k = 2
 
+        nums_count_map = {}
         for num in nums:
-            if num in num_map:
-                num_map[num] += 1
+            if num in nums_count_map:
+                nums_count_map[num] += 1
             else:
-                num_map[num] = 1
+                nums_count_map[num] = 1
 
-        arr = [[] for i in range(len(nums) + 1)]
-
-        for key in num_map:
-            count = num_map[key]
-            arr[count-1].append(key)
-
-        for nums in arr[::-1]:
-            for num in nums:
-                result.append(num)
-                if len(result) == k:
-                    return result
+        count = defaultdict(list)
+        for num in nums_count_map:
+            count[nums_count_map[num]].append(num)
         
+        result = []
+        for i in range(len(nums), -1, -1):
+            if k == 0:
+                return result
+
+            if count[i] == []:
+                continue
+            else:
+                for c in count[i]:
+                    if k == 0:
+                        return result
+                    result.append(c)
+                    k -= 1
+
         return result
+        
+
+
+        
