@@ -1,20 +1,18 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        result = []
+        group_anagram = []
         anagram_map = {}
 
         for word in strs:
-            key = ''.join(sorted(word))
-
-            if key in anagram_map:
-                anagram_map[key].append(word)
+            sorted_word = ''.join(sorted(word))
+            if sorted_word in anagram_map:
+                anagram_map[sorted_word].append(word)
             else:
-                anagram_map[key] = []
-                anagram_map[key].append(word)
+                anagram_map[sorted_word] = [word]
 
-        for key in anagram_map:
-            result.append(anagram_map[key])
+        for anagram in anagram_map:
+            group_anagram.append(anagram_map[anagram])
 
-        return result
+        return group_anagram
 
         
