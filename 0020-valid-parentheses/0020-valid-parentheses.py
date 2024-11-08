@@ -1,20 +1,31 @@
 class Solution:
-    def isValid(self, s: str) -> bool:
-        isValid = []
-        if s[0] == ')' or s[0] == ']' or s[0] == '}':
-            return False
-        for p in s:
-            if p == ')' and isValid and isValid[-1] == '(':
-                isValid.pop()
-            elif p == ']' and isValid and isValid[-1] == '[':
-                isValid.pop()
-            elif p == '}' and isValid and isValid[-1] == '{':
-                isValid.pop()
-            else:
-                isValid.append(p)
-            
+    def isValid(self, strs: str) -> bool:
+        parenthesis_stack = []
 
-        if len(isValid) == 0:
-            return True
+        for s in strs:
+            if not parenthesis_stack and (s == ")" or s == "}" or s == "]"):
+                return False
+
+            if s == "(" or s == "{" or s == "[":
+                parenthesis_stack.append(s)
+
+            elif s == ")" and parenthesis_stack[-1] == "(":
+                parenthesis_stack.pop()
+
+            elif s == "]" and parenthesis_stack[-1] == "[":
+                parenthesis_stack.pop()
+
+            elif s == "}" and parenthesis_stack[-1] == "{":
+                parenthesis_stack.pop()
+                
+            else:
+                return False
         
-        return False
+        if parenthesis_stack:
+            return False
+
+        return True
+
+        
+
+        
