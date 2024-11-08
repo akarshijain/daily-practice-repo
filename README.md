@@ -124,6 +124,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0020-valid-parentheses](https://github.com/akarshijain/daily-practice-repo/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/akarshijain/daily-practice-repo/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/akarshijain/daily-practice-repo/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akarshijain/daily-practice-repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -131,6 +132,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/akarshijain/daily-practice-repo/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/akarshijain/daily-practice-repo/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/akarshijain/daily-practice-repo/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
