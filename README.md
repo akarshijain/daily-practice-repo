@@ -100,6 +100,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/akarshijain/daily-practice-repo/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/akarshijain/daily-practice-repo/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/akarshijain/daily-practice-repo/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/akarshijain/daily-practice-repo/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/akarshijain/daily-practice-repo/tree/master/0271-encode-and-decode-strings) |
@@ -246,6 +247,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0091-decode-ways](https://github.com/akarshijain/daily-practice-repo/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshijain/daily-practice-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/akarshijain/daily-practice-repo/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/akarshijain/daily-practice-repo/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/akarshijain/daily-practice-repo/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/akarshijain/daily-practice-repo/tree/master/0198-house-robber) |
@@ -316,6 +318,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0039-combination-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/akarshijain/daily-practice-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/akarshijain/daily-practice-repo/tree/master/0131-palindrome-partitioning) |
 ## Divide and Conquer
 |  |
 | ------- |
