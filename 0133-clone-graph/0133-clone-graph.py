@@ -8,20 +8,26 @@ class Node:
 
 from typing import Optional
 class Solution:
-    def __init__(self):
-        self.clone_map = {}
-
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         if not node:
             return None
 
-        if node in self.clone_map:
-            return self.clone_map[node]
+        node_map = {}
+        node_map[node] = Node(node.val)
+
+        node_q = deque()
+        node_q.append(node)
+
+        while node_q:
+            old_node = node_q.popleft()
+            for nei in old_node.neighbors:
+                if nei not in node_map:
+                    node_map[nei] = Node(nei.val)
+                    node_q.append(nei)
+            
+                node_map[old_node].neighbors.append(node_map[nei])
+
+        return node_map[node]
         
-        clone = Node(node.val)
-        self.clone_map[node] = clone
 
-        for neighbor in node.neighbors:
-            clone.neighbors.append(self.cloneGraph(neighbor))
-
-        return self.clone_map[node]
+        
