@@ -1,38 +1,41 @@
 class Solution:
     def __init__(self):
-        self.prereq_for_course = {}
-        self.visit = set()
+        self.visited = set()
+        self.prereq_map = {}
 
-    def dfs(self, course):
-        if course in self.visit:
+    def isValid(self, course):
+        if course in self.visited:
             return False
 
-        if not self.prereq_for_course[course]:
+        if self.prereq_map[course] == []:
             return True
 
-        self.visit.add(course)
-        for prereq in self.prereq_for_course[course]:
-            if not self.dfs(prereq):
-                return False
+        self.visited.add(course)
 
-        self.prereq_for_course[course] = []
-        self.visit.remove(course)
+        for prereq in self.prereq_map[course]:
+            if not self.isValid(prereq):
+                return False
+            
+        self.prereq_map[course] = []
+        self.visited.remove(course)
 
         return True
+            
 
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        canFinish = False
+        for i in range(len(prerequisites)):
+            course, prereq = prerequisites[i]
 
-        for prereq, course in prerequisites:
-            if course not in self.prereq_for_course:
-                self.prereq_for_course[course] = []
-            if prereq not in self.prereq_for_course:
-                self.prereq_for_course[prereq] = []
+            if course not in self.prereq_map:
+                self.prereq_map[course] = []
 
-            self.prereq_for_course[course].append(prereq)
+            if prereq not in self.prereq_map:
+                self.prereq_map[prereq] = []
 
-        for course in self.prereq_for_course:
-            if not self.dfs(course):
+            self.prereq_map[course].append(prereq)
+
+        for course in self.prereq_map:
+            if not self.isValid(course):
                 return False
 
         return True
