@@ -1,31 +1,34 @@
 class Solution:
-    def __init__(self):
-        self.visit = set()
-    def dfs(self, board, row, col, word, word_len):
-        if word_len == len(word):
+    def dfs(self, row, col, index, word, board, visited):
+        if index == len(word):
             return True
 
-        if row not in range(len(board)) \
-            or col not in range(len(board[0])) \
-            or board[row][col] != word[word_len] \
-            or (row, col) in self.visit:
-                return False
+        if row not in range(len(board)) or \
+            col not in range(len(board[0])) or \
+            visited[row][col] or \
+            board[row][col] != word[index]:
+            return False
 
-        self.visit.add((row, col))
+        visited[row][col] = True
 
-        answer = (self.dfs(board, row + 1, col, word, word_len+1) or
-        self.dfs(board, row - 1, col, word, word_len+1) or
-        self.dfs(board, row, col + 1, word, word_len+1) or
-        self.dfs(board, row, col - 1, word, word_len+1))
+        result =  self.dfs(row + 1, col, index + 1, word, board, visited) or \
+                    self.dfs(row - 1, col, index + 1, word, board, visited) or \
+                    self.dfs(row, col + 1, index + 1, word, board, visited)  or \
+                    self.dfs(row, col - 1, index + 1, word, board, visited) 
 
-        self.visit.remove((row, col))
+        visited[row][col] = False
 
-        return answer
+        return result
+
 
     def exist(self, board: List[List[str]], word: str) -> bool:
+        visited = [[False for _ in range(len(board[0]))] for _ in range(len(board))]
+
         for row in range(len(board)):
             for col in range(len(board[0])):
-                if self.dfs(board, row, col, word, 0):
-                    return True
+                if board[row][col] == word[0]:
+                    if self.dfs(row, col, 0, word, board, visited):
+                        return True
+
         
         return False
