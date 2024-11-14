@@ -1,48 +1,53 @@
 class Solution:
     def __init__(self):
-        self.prereq_for_course = {}
-        self.order_of_courses = []
-        self.visit = set()
+        self.visited = set()
+        self.prereq_map = {}
 
-    def dfs(self, course):
-        if course in self.visit:
+        self.result_set = set()
+        self.result = []
+
+    def isValid(self, course):
+        if course in self.visited:
             return False
 
-        if not self.prereq_for_course[course]:
+        if self.prereq_map[course] == []:
+            if course not in self.result_set:
+                self.result_set.add(course)
+                self.result.append(course)
             return True
 
-        self.visit.add(course)
-        for prereq in self.prereq_for_course[course]:
-            if not self.dfs(prereq):
-                return False
-            else:
-                if prereq not in self.order_of_courses:
-                    self.order_of_courses.append(prereq)
+        self.visited.add(course)
 
-        self.prereq_for_course[course] = []
-        self.visit.remove(course)
+        for prereq in self.prereq_map[course]:
+            if not self.isValid(prereq):
+                return False
+        
+        if course not in self.result_set:
+            self.result_set.add(course)
+            self.result.append(course)
+        self.prereq_map[course] = []
+        self.visited.remove(course)
 
         return True
 
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
+        for i in range(len(prerequisites)):
+            course, prereq = prerequisites[i]
 
-        for course, prereq in prerequisites:
-            if course not in self.prereq_for_course:
-                self.prereq_for_course[course] = []
-            if prereq not in self.prereq_for_course:
-                self.prereq_for_course[prereq] = []
+            if course not in self.prereq_map:
+                self.prereq_map[course] = []
 
-            self.prereq_for_course[course].append(prereq)
+            if prereq not in self.prereq_map:
+                self.prereq_map[prereq] = []
+
+            self.prereq_map[course].append(prereq)
 
         for i in range(numCourses):
-            if i not in self.prereq_for_course:
-                self.prereq_for_course[i] = []
+            if i not in self.prereq_map:
+                self.prereq_map[i] = []
 
-        for course in self.prereq_for_course:
-            if not self.dfs(course):
+        for course in self.prereq_map:
+            if not self.isValid(course):
                 return []
-            else:
-                if course not in self.order_of_courses:
-                    self.order_of_courses.append(course)
 
-        return self.order_of_courses
+        return self.result
