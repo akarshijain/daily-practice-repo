@@ -1,37 +1,58 @@
 class Solution:
-    def __init__(self):
-        self.atlanticOcean = set()
-        self.pacificOcean = set()
+    def canReachOcean(self, row, col, grid):
+        cell_q = deque()
+        cell_q.append((row, col))
 
-    def dfs(self, row, col, heights, ocean, prevHeight):
-        if (row, col) in ocean \
-            or row not in range(len(heights)) \
-            or col not in range(len(heights[0])) \
-            or heights[row][col] < prevHeight:
-            return
-        
-        ocean.add((row, col))
-        self.dfs(row - 1, col, heights, ocean, heights[row][col])
-        self.dfs(row + 1, col, heights, ocean, heights[row][col])
-        self.dfs(row, col - 1, heights, ocean, heights[row][col])
-        self.dfs(row, col + 1, heights, ocean, heights[row][col])
+        visited = set()
+        visited.add((row, col))
+
+        directions = [[-1, 0], [1, 0], [0, -1], [0, 1]]
+        while cell_q:
+            old_row, old_col = cell_q.popleft()
+            for dr, dc in directions:
+                new_row, new_col = old_row + dr, old_col + dc
+                if new_row not in range(len(grid)) or \
+                    new_col not in range(len(grid[0])) or \
+                    (new_row, new_col) in visited or \
+                    grid[new_row][new_col] < grid[old_row][old_col]:
+                    continue
+
+                cell_q.append((new_row, new_col))
+                visited.add((new_row, new_col))
+
+        return visited
 
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
-        ROWS = len(heights)
-        COLS = len(heights[0])
+        m = len(heights)
+        n = len(heights[0])
 
-        for row in range(ROWS):
-            self.dfs(row, 0, heights, self.pacificOcean, heights[row][0])
-            self.dfs(row, COLS - 1, heights, self.atlanticOcean, heights[row][COLS - 1])
+        pacific_ocean_islands = []
+        for col in range(n):
+            pacific_ocean_islands.append([0, col])
 
-        for col in range(COLS):
-            self.dfs(0, col, heights, self.pacificOcean, heights[0][col])
-            self.dfs(ROWS - 1, col, heights, self.atlanticOcean, heights[ROWS - 1][col])
+        for row in range(1, m):
+            pacific_ocean_islands.append([row, 0])
+
+        atlantic_ocean_islands = []
+        for col in range(0, n):
+            atlantic_ocean_islands.append([m - 1, col])
+
+        for row in range(0, m-1):
+            atlantic_ocean_islands.append([row, n - 1])
+            
+        pacific_cells = set()
+        for row, col in pacific_ocean_islands:
+            pacific_cells.update(self.canReachOcean(row, col, heights))
+
+        atlantic_cells = set()
+        for row, col in atlantic_ocean_islands:
+            atlantic_cells.update(self.canReachOcean(row, col, heights))
 
         result = []
-        for i in range(ROWS):
-            for j in range(COLS):
-                if (i, j) in self.pacificOcean and (i, j) in self.atlanticOcean:
-                    result.append([i, j])
-
+        for row in range(len(heights)):
+            for col in range(len(heights[0])):
+                if (row, col) in pacific_cells and \
+                    (row, col) in atlantic_cells:
+                    result.append([row, col])
+        
         return result
