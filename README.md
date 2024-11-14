@@ -41,6 +41,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshijain/daily-practice-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/akarshijain/daily-practice-repo/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/akarshijain/daily-practice-repo/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akarshijain/daily-practice-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/akarshijain/daily-practice-repo/tree/master/0152-maximum-product-subarray) |
@@ -283,6 +284,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0111-minimum-depth-of-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/akarshijain/daily-practice-repo/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/akarshijain/daily-practice-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
@@ -309,6 +311,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0104-maximum-depth-of-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/akarshijain/daily-practice-repo/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/akarshijain/daily-practice-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
@@ -379,6 +382,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/akarshijain/daily-practice-repo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -389,6 +393,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0036-valid-sudoku](https://github.com/akarshijain/daily-practice-repo/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/akarshijain/daily-practice-repo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/akarshijain/daily-practice-repo/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akarshijain/daily-practice-repo/tree/master/0417-pacific-atlantic-water-flow) |
