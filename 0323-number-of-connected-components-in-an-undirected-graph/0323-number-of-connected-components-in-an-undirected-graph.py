@@ -1,41 +1,33 @@
 class Solution:
     def __init__(self):
-        self.visit = set()
-        self.adjList = {}
-        self.count = 0
+        self.visited = set()
 
-    def dfs(self, node) -> int:
-        if node in self.visit:
-            return
+    def dfs(self, node, prev, neighbors_map):
+        self.visited.add(node)
 
-        self.visit.add(node)
+        for nei in neighbors_map[node]:
+            if nei == prev or nei in self.visited:
+                continue
 
-        if self.adjList[node] == []:
-            return
+            self.dfs(nei, node, neighbors_map)
 
-        for nei in self.adjList[node]:
-            self.dfs(nei)
-
+        return 
 
     def countComponents(self, n: int, edges: List[List[int]]) -> int:
-        for node, nei in edges:
-            if node not in self.adjList:
-                self.adjList[node] = []
-            if nei not in self.adjList:
-                self.adjList[nei] = []
-
-            self.adjList[node].append(nei)
-            self.adjList[nei].append(node)
+        neighbors_map = {}
 
         for i in range(n):
-            if i not in self.adjList:
-                self.adjList[i] = []
+            neighbors_map[i] = []
 
-        print(self.adjList)
+        for node, nei in edges:
+            neighbors_map[node].append(nei)
+            neighbors_map[nei].append(node)
 
-        for node in self.adjList:
-            if node not in self.visit:
-                self.dfs(node)
-                self.count += 1
+        count = 0
+        for node in neighbors_map:
+            if node in self.visited:
+                continue
+            count += 1
+            self.dfs(node, -1, neighbors_map)
 
-        return self.count
+        return count
