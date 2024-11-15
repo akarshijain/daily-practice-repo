@@ -299,6 +299,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0417-pacific-atlantic-water-flow](https://github.com/akarshijain/daily-practice-repo/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/akarshijain/daily-practice-repo/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akarshijain/daily-practice-repo/tree/master/0733-flood-fill) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -324,6 +325,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0322-coin-change](https://github.com/akarshijain/daily-practice-repo/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akarshijain/daily-practice-repo/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/akarshijain/daily-practice-repo/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akarshijain/daily-practice-repo/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/akarshijain/daily-practice-repo/tree/master/1036-rotting-oranges) |
@@ -386,6 +388,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0684-redundant-connection](https://github.com/akarshijain/daily-practice-repo/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
@@ -409,6 +412,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0210-course-schedule-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0684-redundant-connection](https://github.com/akarshijain/daily-practice-repo/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
