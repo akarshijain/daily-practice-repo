@@ -1,32 +1,39 @@
 class Solution:
-
     def __init__(self):
-        self.adjList = {}
-        self.visit = set()
+        self.visited = set()
 
-    def dfs(self, node, prev):
-        if node in self.visit:
+    def dfs(self, node, prev, adj_list):
+        if node in self.visited:
             return False
+            
+        self.visited.add(node)
 
-        self.visit.add(node)
-
-        for nei in self.adjList[node]:
-            if prev == nei:
+        for nei in adj_list[node]:
+            if nei == prev:
                 continue
 
-            if not self.dfs(nei, node):
+            if not self.dfs(nei, node, adj_list):
                 return False
 
         return True
-
+            
     def validTree(self, n: int, edges: List[List[int]]) -> bool:
-        if not n:
-            return True
+        if len(edges) >= n:
+            return False
 
-        self.adjList = {i: [] for i in range(n)}
+        adj_list = {}
+
+        for i in range(n):
+            adj_list[i] = []
 
         for node, nei in edges:
-            self.adjList[node].append(nei)
-            self.adjList[nei].append(node)
+            adj_list[node].append(nei)
+            adj_list[nei].append(node)
 
-        return self.dfs(0, -1) and n == len(self.visit)
+        if not self.dfs(0, -1, adj_list):
+            return False
+
+        if len(self.visited) != n:
+            return False
+
+        return True
