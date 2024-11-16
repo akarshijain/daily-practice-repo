@@ -50,6 +50,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0198-house-robber](https://github.com/akarshijain/daily-practice-repo/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/akarshijain/daily-practice-repo/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/akarshijain/daily-practice-repo/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akarshijain/daily-practice-repo/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/akarshijain/daily-practice-repo/tree/master/0271-encode-and-decode-strings) |
@@ -76,6 +77,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0015-3sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akarshijain/daily-practice-repo/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0295-find-median-from-data-stream) |
@@ -87,6 +89,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akarshijain/daily-practice-repo/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/akarshijain/daily-practice-repo/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -353,6 +356,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akarshijain/daily-practice-repo/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
@@ -362,6 +366,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/akarshijain/daily-practice-repo/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
