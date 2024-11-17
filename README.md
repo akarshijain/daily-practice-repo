@@ -63,6 +63,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0733-flood-fill](https://github.com/akarshijain/daily-practice-repo/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/akarshijain/daily-practice-repo/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0792-binary-search) |
+| [0883-car-fleet](https://github.com/akarshijain/daily-practice-repo/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/akarshijain/daily-practice-repo/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/akarshijain/daily-practice-repo/tree/master/1036-rotting-oranges) |
@@ -82,6 +83,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0268-missing-number](https://github.com/akarshijain/daily-practice-repo/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/akarshijain/daily-practice-repo/tree/master/0347-top-k-frequent-elements) |
+| [0883-car-fleet](https://github.com/akarshijain/daily-practice-repo/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akarshijain/daily-practice-repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -142,6 +144,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0150-evaluate-reverse-polish-notation](https://github.com/akarshijain/daily-practice-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/akarshijain/daily-practice-repo/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/akarshijain/daily-practice-repo/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/akarshijain/daily-practice-repo/tree/master/0883-car-fleet) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akarshijain/daily-practice-repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -482,6 +485,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/akarshijain/daily-practice-repo/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/akarshijain/daily-practice-repo/tree/master/0883-car-fleet) |
 ## Trie
 |  |
 | ------- |
