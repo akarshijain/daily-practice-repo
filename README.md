@@ -72,6 +72,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akarshijain/daily-practice-repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1706-min-cost-to-connect-all-points](https://github.com/akarshijain/daily-practice-repo/tree/master/1706-min-cost-to-connect-all-points) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akarshijain/daily-practice-repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Sorting
 |  |
@@ -405,6 +406,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/akarshijain/daily-practice-repo/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
+| [1706-min-cost-to-connect-all-points](https://github.com/akarshijain/daily-practice-repo/tree/master/1706-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -429,6 +431,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/akarshijain/daily-practice-repo/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/akarshijain/daily-practice-repo/tree/master/0744-network-delay-time) |
+| [1706-min-cost-to-connect-all-points](https://github.com/akarshijain/daily-practice-repo/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -507,4 +510,8 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/akarshijain/daily-practice-repo/tree/master/0744-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/akarshijain/daily-practice-repo/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
