@@ -12,22 +12,20 @@ class Solution:
         if not node:
             return None
 
-        node_map = {}
-        node_map[node] = Node(node.val)
+        clone_map = {}
+        def dfs(node):            
+            if node in clone_map:
+                return clone_map[node]
 
-        node_q = deque()
-        node_q.append(node)
+            clone = Node(node.val)
+            clone_map[node] = clone
+            for nei in node.neighbors:
+                clone.neighbors.append(dfs(nei))
 
-        while node_q:
-            old_node = node_q.popleft()
-            for nei in old_node.neighbors:
-                if nei not in node_map:
-                    node_map[nei] = Node(nei.val)
-                    node_q.append(nei)
-            
-                node_map[old_node].neighbors.append(node_map[nei])
+            return clone
 
-        return node_map[node]
+        return dfs(node)
+
         
 
         
