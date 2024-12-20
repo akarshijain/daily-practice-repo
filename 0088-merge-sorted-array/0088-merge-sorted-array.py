@@ -22,7 +22,3 @@ class Solution:
             elif nums2_index >= 0:
                 nums1[i] = nums2[nums2_index]
                 nums2_index -= 1
-
-
-        
-
