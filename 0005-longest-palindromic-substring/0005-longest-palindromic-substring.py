@@ -1,25 +1,20 @@
 class Solution:
+    def __init__(self):
+        self.longest_palindrome = ""
+
+    def isPalindrome(self, s, left, right):
+        while left >= 0 and right < len(s) \
+            and s[left] == s[right]:
+            tempLength = right - left + 1
+            if tempLength >= len(self.longest_palindrome):
+                self.longest_palindrome = s[left : right + 1]
+
+            left -= 1
+            right += 1
+
     def longestPalindrome(self, s: str) -> str:
-        max_str = ""
-
         for i in range(len(s)):
-            left = i
-            right = i
-            while min(left, right) >= 0 and max(left, right) < len(s) and s[left] == s[right]:
-                if right - left + 1 > len(max_str):
-                    max_str = s[left:right + 1]
-                left -= 1
-                right += 1
+            self.isPalindrome(s, i, i)
+            self.isPalindrome(s, i, i+1)
 
-            left = i
-            right = i + 1
-            while min(left, right) >= 0 and max(left, right) < len(s) and s[left] == s[right]:
-                if right - left + 1 > len(max_str):
-                    max_str = s[left:right + 1]
-                left -= 1
-                right += 1
-
-        return max_str
-
-
-            
+        return self.longest_palindrome
