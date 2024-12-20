@@ -32,6 +32,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0036-valid-sudoku](https://github.com/akarshijain/daily-practice-repo/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/akarshijain/daily-practice-repo/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/akarshijain/daily-practice-repo/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/0074-search-a-2d-matrix) |
@@ -145,6 +146,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akarshijain/daily-practice-repo/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/akarshijain/daily-practice-repo/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akarshijain/daily-practice-repo/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -268,6 +270,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/akarshijain/daily-practice-repo/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/akarshijain/daily-practice-repo/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/akarshijain/daily-practice-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akarshijain/daily-practice-repo/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/akarshijain/daily-practice-repo/tree/master/0091-decode-ways) |
@@ -456,6 +459,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0011-container-with-most-water](https://github.com/akarshijain/daily-practice-repo/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/akarshijain/daily-practice-repo/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/akarshijain/daily-practice-repo/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akarshijain/daily-practice-repo/tree/master/0141-linked-list-cycle) |
@@ -498,6 +502,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akarshijain/daily-practice-repo/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/akarshijain/daily-practice-repo/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/akarshijain/daily-practice-repo/tree/master/0883-car-fleet) |
 ## Trie
