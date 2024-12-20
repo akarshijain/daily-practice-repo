@@ -137,6 +137,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akarshijain/daily-practice-repo/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/akarshijain/daily-practice-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/akarshijain/daily-practice-repo/tree/master/0141-linked-list-cycle) |
@@ -262,6 +263,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akarshijain/daily-practice-repo/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/akarshijain/daily-practice-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akarshijain/daily-practice-repo/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akarshijain/daily-practice-repo/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -491,6 +493,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akarshijain/daily-practice-repo/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
 ## Merge Sort
 |  |
