@@ -126,6 +126,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0657-robot-return-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/0657-robot-return-to-origin) |
 | [1023-time-based-key-value-store](https://github.com/akarshijain/daily-practice-repo/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/akarshijain/daily-practice-repo/tree/master/1250-longest-common-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/akarshijain/daily-practice-repo/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
@@ -462,6 +463,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akarshijain/daily-practice-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/akarshijain/daily-practice-repo/tree/master/0647-palindromic-substrings) |
+| [1894-merge-strings-alternately](https://github.com/akarshijain/daily-practice-repo/tree/master/1894-merge-strings-alternately) |
 ## Combinatorics
 |  |
 | ------- |
