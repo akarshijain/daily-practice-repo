@@ -26,6 +26,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/akarshijain/daily-practice-repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/akarshijain/daily-practice-repo/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0033-search-in-rotated-sorted-array) |
@@ -215,6 +216,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akarshijain/daily-practice-repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0098-validate-binary-search-tree) |
@@ -366,6 +368,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/akarshijain/daily-practice-repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/akarshijain/daily-practice-repo/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0190-reverse-bits) |
