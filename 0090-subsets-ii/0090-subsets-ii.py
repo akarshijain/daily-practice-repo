@@ -5,23 +5,22 @@ class Solution:
 
     def dfs(self, index, nums):
         if index >= len(nums):
-            subset_copy = self.subset.copy()
-            subset_copy.sort()
-
-            if subset_copy not in self.all_subsets:
-                self.all_subsets.append(subset_copy)
+            self.all_subsets.append(self.subset.copy())
             return
 
         self.subset.append(nums[index])
         self.dfs(index + 1, nums)
 
         self.subset.pop()
-        self.dfs(index + 1, nums)
+        while (index + 1) < len(nums) and nums[index] == nums[index + 1]:
+            index += 1
 
+        self.dfs(index + 1, nums)
         return
         
 
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
+        nums.sort()
         self.dfs(0, nums)
         return self.all_subsets
         
