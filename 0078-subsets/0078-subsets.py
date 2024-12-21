@@ -1,11 +1,11 @@
 class Solution:
     def __init__(self):
+        self.all_subsets = []
         self.subset = []
-        self.result = []
 
     def dfs(self, index, nums):
         if index >= len(nums):
-            self.result.append(self.subset.copy())
+            self.all_subsets.append(self.subset.copy())
             return
 
         self.subset.append(nums[index])
@@ -18,5 +18,6 @@ class Solution:
 
     def subsets(self, nums: List[int]) -> List[List[int]]:
         self.dfs(0, nums)
-        return self.result
+        return self.all_subsets
+
         
