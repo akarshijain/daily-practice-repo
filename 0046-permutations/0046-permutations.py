@@ -1,25 +1,16 @@
 class Solution:
-    def __init__(self):
-        self.path = []
-        self.permutations = []
-        self.lookup = set()
-
-    def dfs(self, index, nums):
-        if index >= len(nums):
-            self.permutations.append(self.path.copy())
-            return
-
-        for i in range(len(nums)):
-            if nums[i] not in self.lookup:
-                self.path.append(nums[i])
-                self.lookup.add(nums[i])
-
-                self.dfs(index + 1, nums)
-
-                self.path.pop()
-                self.lookup.remove(nums[i])
-        return
-
     def permute(self, nums: List[int]) -> List[List[int]]:
-        self.dfs(0, nums)
-        return self.permutations
+        if len(nums) == 0:
+            return [[]]
+
+        permutations = self.permute(nums[1:])
+        all_permutations = []
+
+        for permutation in permutations:
+            for index in range(0, len(permutation) + 1):
+                possible_permutes = permutation.copy()
+                possible_permutes.insert(index, nums[0])
+                all_permutations.append(possible_permutes)
+
+        return all_permutations
+
