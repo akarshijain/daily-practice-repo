@@ -1,45 +1,46 @@
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+# # Definition for singly-linked list.
+# # class ListNode:
+# #     def __init__(self, val=0, next=None):
+# #         self.val = val
+# #         self.next = next
 class Solution:
-    def mergeTwoLists(self, l1, l2) -> Optional[ListNode]:
-        head = ListNode()
-        curr = head
+    def merge(self, left_ll, right_ll):
+        curr = ListNode(0)
+        merged_ll = curr
 
-        while l1 and l2:
-            if l1.val <= l2.val:
-                curr.next = l1
-                l1 = l1.next
+        while left_ll and right_ll:
+            if left_ll.val <= right_ll.val:
+                curr.next = left_ll
+                left_ll = left_ll.next
             else:
-                curr.next = l2
-                l2 = l2.next
+                curr.next = right_ll
+                right_ll = right_ll.next
 
             curr = curr.next
 
-        while l1:
-            curr.next = l1
-            curr = curr.next
-            l1 = l1.next
+        if left_ll:
+            curr.next = left_ll
 
-        while l2:
-            curr.next = l2
-            curr = curr.next
-            l2 = l2.next
+        if right_ll:
+            curr.next = right_ll
+        
+        return merged_ll.next
 
-        return head.next
-
-    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        if not lists:
+    def divide(self, left, right, lists):
+        if right < left:
             return None
 
-        while len(lists) > 1:
-            mergedList = []
-            for i in range(0, len(lists), 2):
-                list1 = lists[i]
-                list2 = lists[i+1] if i+1 < len(lists) else None
-                mergedList.append(self.mergeTwoLists(list1, list2))
-            lists = mergedList
+        if left == right:
+            return lists[left]
 
-        return lists[0]
+        mid = left + (right - left) // 2
+
+        left_ll = self.divide(left, mid, lists)
+        right_ll = self.divide(mid + 1, right, lists)
+
+        return self.merge(left_ll, right_ll)
+
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        if not lists or len(lists) == 0:
+            return None
+        return self.divide(0, len(lists) - 1, lists)
