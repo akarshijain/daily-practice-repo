@@ -1,33 +1,30 @@
 class Solution:
     def __init__(self):
+        self.all_subsets = []
         self.subset = []
-        self.result = []
-        self.sum = 0
-    # [1, 1, 1, 2, 2, 3]
-    def dfs(self, index, candidates, target):
-        if self.sum == target:
-            self.result.append(self.subset.copy())
+        self.combination_sum = 0
+
+    def dfs(self, index, nums, target):
+        if self.combination_sum == target:
+            self.all_subsets.append(self.subset.copy())
             return
 
-        if index >= len(candidates) or self.sum > target:
+        if index >= len(nums) or self.combination_sum > target:
             return
 
-        self.sum += candidates[index]
-        self.subset.append(candidates[index])
-        self.dfs(index + 1, candidates, target)
+        self.subset.append(nums[index])
+        self.combination_sum += nums[index]
+        self.dfs(index + 1, nums, target)
 
-        self.sum -= candidates[index]
         self.subset.pop()
-        
-        while index + 1 < len(candidates) and candidates[index + 1] == candidates[index]:
+        self.combination_sum -= nums[index]
+        while (index + 1) < len(nums) and nums[index] == nums[index + 1]:
             index += 1
-        
-        self.dfs(index + 1, candidates, target)
 
+        self.dfs(index + 1, nums, target)
         return
-
-
+        
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
         candidates.sort()
         self.dfs(0, candidates, target)
-        return self.result
+        return self.all_subsets
