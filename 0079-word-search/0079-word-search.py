@@ -1,34 +1,36 @@
 class Solution:
-    def dfs(self, row, col, index, word, board, visited):
-        if index == len(word):
+    def __init__(self):
+        self.constructed_word = ""
+        self.visited = set()
+
+    def formWords(self, index, row, col, board, target_word):
+        if self.constructed_word == target_word:
             return True
 
-        if row not in range(len(board)) or \
-            col not in range(len(board[0])) or \
-            visited[row][col] or \
-            board[row][col] != word[index]:
+        if row not in range(len(board)) \
+            or col not in range(len(board[0])) \
+            or target_word[index] != board[row][col] \
+            or (row, col) in self.visited: 
             return False
 
-        visited[row][col] = True
+        self.constructed_word += board[row][col]
+        self.visited.add((row, col))
 
-        result =  self.dfs(row + 1, col, index + 1, word, board, visited) or \
-                    self.dfs(row - 1, col, index + 1, word, board, visited) or \
-                    self.dfs(row, col + 1, index + 1, word, board, visited)  or \
-                    self.dfs(row, col - 1, index + 1, word, board, visited) 
+        result = self.formWords(index + 1, row + 1, col, board, target_word) \
+                    or self.formWords(index + 1, row, col + 1, board, target_word) \
+                    or self.formWords(index + 1, row - 1, col, board, target_word) \
+                    or self.formWords(index + 1, row, col - 1, board, target_word)
 
-        visited[row][col] = False
-
+        self.constructed_word = self.constructed_word[:-1]
+        self.visited.remove((row, col))
+        
         return result
 
-
     def exist(self, board: List[List[str]], word: str) -> bool:
-        visited = [[False for _ in range(len(board[0]))] for _ in range(len(board))]
-
         for row in range(len(board)):
             for col in range(len(board[0])):
                 if board[row][col] == word[0]:
-                    if self.dfs(row, col, 0, word, board, visited):
+                    if self.formWords(0, row, col, board, word):
                         return True
 
-        
         return False
