@@ -4,7 +4,7 @@ class Solution:
         self.visited = set()
 
     def formWords(self, index, row, col, board, target_word):
-        if self.constructed_word == target_word:
+        if index == len(target_word):
             return True
 
         if row not in range(len(board)) \
@@ -13,7 +13,6 @@ class Solution:
             or (row, col) in self.visited: 
             return False
 
-        self.constructed_word += board[row][col]
         self.visited.add((row, col))
 
         result = self.formWords(index + 1, row + 1, col, board, target_word) \
@@ -21,9 +20,7 @@ class Solution:
                     or self.formWords(index + 1, row - 1, col, board, target_word) \
                     or self.formWords(index + 1, row, col - 1, board, target_word)
 
-        self.constructed_word = self.constructed_word[:-1]
         self.visited.remove((row, col))
-        
         return result
 
     def exist(self, board: List[List[str]], word: str) -> bool:
