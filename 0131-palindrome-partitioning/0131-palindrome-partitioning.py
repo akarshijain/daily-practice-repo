@@ -1,26 +1,26 @@
 class Solution:
     def __init__(self):
-        self.substring = []
-        self.result = []
+        self.palindrome_substr = []
+        self.substr = []
 
-    def isPalindrome(self, substr):
-        return substr == substr[-1::-1]
+    def isPalindrome(self, s):
+        return s == s[-1::-1]
 
-    def dfs(self, index, s):
+    def getSubstrings(self, index, s):
         if index >= len(s):
-            self.result.append(self.substring.copy())
+            self.palindrome_substr.append(self.substr.copy())
             return
 
-        for i in range(index, len(s)):
-            substr = s[index:i+1]
-            if not self.isPalindrome(substr):
+        for j in range(index, len(s)):
+            if not self.isPalindrome(s[index : j+1]):
                 continue
-            self.substring.append(substr)
-            self.dfs(i+1, s)
-            self.substring.pop()
+            self.substr.append(s[index : j+1])
+            self.getSubstrings(j + 1, s)
+            self.substr.pop()
 
         return
 
     def partition(self, s: str) -> List[List[str]]:
-        self.dfs(0, s)
-        return self.result
+        self.getSubstrings(0, s)
+        return self.palindrome_substr
+        
