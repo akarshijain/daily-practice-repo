@@ -1,9 +1,9 @@
 class Solution:
     def __init__(self):
-        self.path = []
-        self.result = []
+        self.parentheses = []
+        self.all_combinations = []
 
-    def isValid(self, bracket):
+    def isValidParentheses(self, bracket):
         bracket_st = []
         for b in bracket:
             if not bracket_st and b == ")":
@@ -21,20 +21,22 @@ class Solution:
 
         return True
 
-    def dfs(self, index, n):
-        if index >= 2*n:
-            bracket = "".join(self.path)
-            if self.isValid(bracket):
-                self.result.append(bracket)
+    def dfs(self, n):
+        if len(self.parentheses) >= 2*n:
+            if self.isValidParentheses(self.parentheses):
+                self.all_combinations.append(''.join(self.parentheses.copy()))
             return
-        
-        for bracket in "()":
-            self.path.append(bracket)
-            self.dfs(index + 1, n)
-            self.path.pop()
-        
-    def generateParenthesis(self, n: int) -> List[str]:
-        self.dfs(0, n)
 
-        return self.result
-        
+        self.parentheses.append("(")
+        self.dfs(n)
+        self.parentheses.pop()
+
+        self.parentheses.append(")")
+        self.dfs(n)
+        self.parentheses.pop()
+
+        return
+
+    def generateParenthesis(self, n: int) -> List[str]:
+        self.dfs(n)
+        return self.all_combinations
