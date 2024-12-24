@@ -5,17 +5,17 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def dfs(self, root):
-        if not root:
+    def dfs(self, node):
+        if not node:
             return None
 
-        left = self.dfs(root.left)
-        right = self.dfs(root.right)
+        left = self.dfs(node.left)
+        right = self.dfs(node.right)
 
-        root.left = right
-        root.right = left
+        node.left = right
+        node.right = left
 
-        return root
+        return node
 
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         return self.dfs(root)
