@@ -9,14 +9,13 @@ class Solution:
         if not node:
             return 0, True
 
-        left = self.dfs(node.left)
-        right = self.dfs(node.right)
+        left, isBalanced_left = self.dfs(node.left)
+        right, isBalanced_right = self.dfs(node.right)
 
-        if not left[1] or not right[1] or abs(left[0] - right[0]) > 1:
+        if not isBalanced_left or not isBalanced_right or abs(left - right) > 1:
             return 0, False
 
-        return 1 + max(left[0], right[0]), True
+        return 1 + max(left, right), True
 
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
         return self.dfs(root)[1]
-        
