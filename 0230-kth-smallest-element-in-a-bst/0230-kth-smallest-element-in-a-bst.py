@@ -13,14 +13,11 @@ class Solution:
             return None
 
         left = self.dfs(node.left)
-
         self.result.append(node.val)
-
         right = self.dfs(node.right)
 
         return node
 
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
         self.dfs(root)
-        print(self.result)
         return self.result[k - 1]
