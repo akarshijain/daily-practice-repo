@@ -6,21 +6,21 @@
 #         self.right = right
 class Solution:
     def __init__(self):
-        self.count = 0
+        self.good_nodes_count = 0
 
-    def dfs(self, node, max_val):
-        if not node:
-            return None
+    def dfs(self, max_val, curr_node):
+        if not curr_node:
+            return
 
-        if node.val >= max_val:
-            max_val = node.val
-            self.count += 1
+        if curr_node.val >= max_val:
+            self.good_nodes_count += 1
+            max_val = max(max_val, curr_node.val)
 
-        self.dfs(node.left, max_val)
-        self.dfs(node.right, max_val)
+        self.dfs(max_val, curr_node.left)
+        self.dfs(max_val, curr_node.right)
 
-        return None
+        return
 
     def goodNodes(self, root: TreeNode) -> int:
-        self.dfs(root, float("-inf"))
-        return self.count
+        self.dfs(float("-inf"), root)
+        return self.good_nodes_count
