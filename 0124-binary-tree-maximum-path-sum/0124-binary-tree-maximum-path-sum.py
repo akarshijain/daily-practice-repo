@@ -6,28 +6,23 @@
 #         self.right = right
 class Solution:
     def __init__(self):
-        self.maxSum = float("-inf")
+        self.max_sum = float("-inf")
 
-    def dfs(self, root):
-        if not root:
+    def dfs(self, node):
+        if not node:
             return 0
 
-        rightSum = self.dfs(root.right)
+        left = self.dfs(node.left)
+        right = self.dfs(node.right)
 
-        leftSum = self.dfs(root.left)
+        node_sum = node.val + left + right
+        branch_sum = node.val + max(left, right, 0)
 
-        subtreeSum = root.val + leftSum + rightSum
-        maxBranchSum = root.val + max(leftSum, rightSum, 0)
+        self.max_sum = max(self.max_sum, node_sum, branch_sum)
 
-        if subtreeSum >= maxBranchSum:
-            subSum = subtreeSum
-        else:
-            subSum = maxBranchSum
+        return branch_sum
 
-        self.maxSum = max(self.maxSum, subSum)
-
-        return maxBranchSum
 
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
         self.dfs(root)
-        return self.maxSum
+        return self.max_sum
