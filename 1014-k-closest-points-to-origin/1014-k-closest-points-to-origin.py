@@ -3,16 +3,15 @@ class Solution:
         min_heap = []
         heapq.heapify(min_heap)
 
-        index = 0
-        for x, y in points:
-            distance = (x ** 2) + (y ** 2)
-            heapq.heappush(min_heap, (distance, index))
-            index += 1
-
-        k_closest_points = []
+        for index, (x, y) in enumerate(points):
+            euc_distance = sqrt((x * x) + (y * y))
+            heapq.heappush(min_heap, (euc_distance, index))
+        
+        result = []
         while k > 0:
             _, index = heapq.heappop(min_heap)
-            k_closest_points.append(points[index])
+            result.append(points[index])
             k -= 1
 
-        return k_closest_points
+        return result
+        
