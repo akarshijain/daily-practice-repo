@@ -125,6 +125,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0127-word-ladder](https://github.com/akarshijain/daily-practice-repo/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/akarshijain/daily-practice-repo/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/akarshijain/daily-practice-repo/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/akarshijain/daily-practice-repo/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -167,6 +168,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0146-lru-cache](https://github.com/akarshijain/daily-practice-repo/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/akarshijain/daily-practice-repo/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0208-implement-trie-prefix-tree) |
 | [0271-encode-and-decode-strings](https://github.com/akarshijain/daily-practice-repo/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -412,6 +414,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0139-word-break](https://github.com/akarshijain/daily-practice-repo/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/akarshijain/daily-practice-repo/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/akarshijain/daily-practice-repo/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akarshijain/daily-practice-repo/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akarshijain/daily-practice-repo/tree/master/0347-top-k-frequent-elements) |
@@ -526,6 +529,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0139-word-break](https://github.com/akarshijain/daily-practice-repo/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0208-implement-trie-prefix-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
