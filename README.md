@@ -119,6 +119,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0020-valid-parentheses](https://github.com/akarshijain/daily-practice-repo/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akarshijain/daily-practice-repo/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/akarshijain/daily-practice-repo/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/akarshijain/daily-practice-repo/tree/master/0091-decode-ways) |
@@ -139,6 +140,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/akarshijain/daily-practice-repo/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/0657-robot-return-to-origin) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akarshijain/daily-practice-repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Linked List
@@ -274,6 +276,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0002-add-two-numbers](https://github.com/akarshijain/daily-practice-repo/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/akarshijain/daily-practice-repo/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/akarshijain/daily-practice-repo/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/akarshijain/daily-practice-repo/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akarshijain/daily-practice-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/akarshijain/daily-practice-repo/tree/master/0268-missing-number) |
@@ -534,6 +537,7 @@ This is a live repo and will be updated as more content is added and new learnin
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/akarshijain/daily-practice-repo/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/akarshijain/daily-practice-repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0190-reverse-bits) |
