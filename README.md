@@ -133,6 +133,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/akarshijain/daily-practice-repo/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/akarshijain/daily-practice-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/akarshijain/daily-practice-repo/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/0657-robot-return-to-origin) |
@@ -302,6 +303,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0300-longest-increasing-subsequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akarshijain/daily-practice-repo/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/akarshijain/daily-practice-repo/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/akarshijain/daily-practice-repo/tree/master/1250-longest-common-subsequence) |
 ## Memoization
@@ -491,6 +493,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akarshijain/daily-practice-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/akarshijain/daily-practice-repo/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/akarshijain/daily-practice-repo/tree/master/1894-merge-strings-alternately) |
 ## Combinatorics
