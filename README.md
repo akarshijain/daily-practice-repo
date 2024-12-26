@@ -64,6 +64,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0347-top-k-frequent-elements](https://github.com/akarshijain/daily-practice-repo/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akarshijain/daily-practice-repo/tree/master/0417-pacific-atlantic-water-flow) |
 | [0621-task-scheduler](https://github.com/akarshijain/daily-practice-repo/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/akarshijain/daily-practice-repo/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akarshijain/daily-practice-repo/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/akarshijain/daily-practice-repo/tree/master/0739-daily-temperatures) |
@@ -93,6 +94,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0295-find-median-from-data-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/akarshijain/daily-practice-repo/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/akarshijain/daily-practice-repo/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/akarshijain/daily-practice-repo/tree/master/0645-set-mismatch) |
 | [0883-car-fleet](https://github.com/akarshijain/daily-practice-repo/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -424,6 +426,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0347-top-k-frequent-elements](https://github.com/akarshijain/daily-practice-repo/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/akarshijain/daily-practice-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/akarshijain/daily-practice-repo/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/akarshijain/daily-practice-repo/tree/master/0645-set-mismatch) |
 | [1023-time-based-key-value-store](https://github.com/akarshijain/daily-practice-repo/tree/master/1023-time-based-key-value-store) |
 ## Union Find
 |  |
@@ -544,6 +547,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0191-number-of-1-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/akarshijain/daily-practice-repo/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/akarshijain/daily-practice-repo/tree/master/0645-set-mismatch) |
 ## Shortest Path
 |  |
 | ------- |
