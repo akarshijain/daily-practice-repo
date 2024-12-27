@@ -1,11 +1,15 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        sum1, sum2 = 0, 0
-        result = -1
+        if len(nums) == 1:
+            return nums[0]
 
-        for num in nums:
-            result = max(num + sum1, sum2)
-            sum1 = sum2
-            sum2 = result
+        money_stashed = [0] * len(nums)
 
-        return result
+        money_stashed[0] = nums[0]
+        money_stashed[1] = max(nums[0], nums[1])
+
+        for i in range(2, len(nums)):
+            money_stashed[i] = max(money_stashed[i - 1], nums[i] + money_stashed[i - 2])
+
+        return money_stashed[-1]
+        
