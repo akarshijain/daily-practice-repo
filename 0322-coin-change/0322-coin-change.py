@@ -4,13 +4,16 @@ class Solution:
 
         num_coins[0] = 0
 
-        for amt in range(1, amount + 1):
-            for coin in coins:
-                diff = amt - coin
-                if diff >= 0:
-                    num_coins[amt] = min(num_coins[amt], 1 + num_coins[diff])
+        for target_value in range(1, len(num_coins)):
+            for coin_value in coins:
+                diff_amount = target_value - coin_value
 
-        if num_coins[amount] == float("inf"):
+                if diff_amount < 0:
+                    continue
+
+                num_coins[target_value] = min(num_coins[target_value], 1 + num_coins[diff_amount])
+
+        if num_coins[-1] == float("inf"):
             return -1
 
-        return num_coins[amount]
+        return num_coins[-1]
