@@ -38,6 +38,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0046-permutations](https://github.com/akarshijain/daily-practice-repo/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akarshijain/daily-practice-repo/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/akarshijain/daily-practice-repo/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/akarshijain/daily-practice-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
@@ -88,6 +89,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0015-3sum](https://github.com/akarshijain/daily-practice-repo/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/akarshijain/daily-practice-repo/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
