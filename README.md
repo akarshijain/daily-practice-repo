@@ -121,6 +121,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0020-valid-parentheses](https://github.com/akarshijain/daily-practice-repo/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akarshijain/daily-practice-repo/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/akarshijain/daily-practice-repo/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/akarshijain/daily-practice-repo/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
