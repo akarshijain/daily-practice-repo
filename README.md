@@ -239,6 +239,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/akarshijain/daily-practice-repo/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -286,6 +287,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/akarshijain/daily-practice-repo/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Math
 |  |
 | ------- |
@@ -356,6 +358,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0733-flood-fill](https://github.com/akarshijain/daily-practice-repo/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/akarshijain/daily-practice-repo/tree/master/0744-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/akarshijain/daily-practice-repo/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
