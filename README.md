@@ -76,6 +76,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0792-binary-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/akarshijain/daily-practice-repo/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/akarshijain/daily-practice-repo/tree/master/0907-koko-eating-bananas) |
+| [0932-monotonic-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/akarshijain/daily-practice-repo/tree/master/0978-valid-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/akarshijain/daily-practice-repo/tree/master/1036-rotting-oranges) |
