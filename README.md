@@ -144,6 +144,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0139-word-break](https://github.com/akarshijain/daily-practice-repo/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/akarshijain/daily-practice-repo/tree/master/0257-binary-tree-paths) |
 | [0271-encode-and-decode-strings](https://github.com/akarshijain/daily-practice-repo/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/akarshijain/daily-practice-repo/tree/master/0389-find-the-difference) |
@@ -235,6 +236,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0226-invert-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/akarshijain/daily-practice-repo/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0543-diameter-of-binary-tree) |
@@ -283,6 +285,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0226-invert-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/akarshijain/daily-practice-repo/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0543-diameter-of-binary-tree) |
@@ -351,6 +354,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0226-invert-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/akarshijain/daily-practice-repo/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0261-graph-valid-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -406,6 +410,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/akarshijain/daily-practice-repo/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/akarshijain/daily-practice-repo/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
