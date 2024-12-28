@@ -171,6 +171,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0141-linked-list-cycle](https://github.com/akarshijain/daily-practice-repo/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/akarshijain/daily-practice-repo/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0206-reverse-linked-list) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
@@ -550,6 +551,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0002-add-two-numbers](https://github.com/akarshijain/daily-practice-repo/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
