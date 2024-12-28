@@ -17,6 +17,8 @@ class Solution:
 
         if not node.left and not node.right:
             self.unique_paths.append("->".join(self.path))
+            self.path.pop()
+            return
 
         self.dfs(node.left)
         self.dfs(node.right)
