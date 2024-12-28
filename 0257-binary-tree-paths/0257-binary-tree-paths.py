@@ -22,6 +22,7 @@ class Solution:
         self.dfs(node.right)
 
         self.path.pop()
+        return
 
     def binaryTreePaths(self, root: Optional[TreeNode]) -> List[str]:
         self.dfs(root)
