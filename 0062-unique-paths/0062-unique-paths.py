@@ -1,9 +1,10 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        dp = [[1] * (n+1)] * (m+1)
-     
+        unique_paths = [[1] * n] * m
+
         for i in range(m-2, -1, -1):
             for j in range(n-2, -1, -1):
-                dp[i][j] = dp[i][j+1] + dp[i+1][j]
+                unique_paths[i][j] = unique_paths[i+1][j] + unique_paths[i][j+1]
 
-        return dp[0][0]
+
+        return unique_paths[0][0]
