@@ -82,6 +82,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [1036-rotting-oranges](https://github.com/akarshijain/daily-practice-repo/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/akarshijain/daily-practice-repo/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akarshijain/daily-practice-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akarshijain/daily-practice-repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -107,6 +108,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0645-set-mismatch](https://github.com/akarshijain/daily-practice-repo/tree/master/0645-set-mismatch) |
 | [0883-car-fleet](https://github.com/akarshijain/daily-practice-repo/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akarshijain/daily-practice-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/akarshijain/daily-practice-repo/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akarshijain/daily-practice-repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Heap (Priority Queue)
@@ -450,6 +452,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0621-task-scheduler](https://github.com/akarshijain/daily-practice-repo/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/akarshijain/daily-practice-repo/tree/master/0645-set-mismatch) |
 | [1023-time-based-key-value-store](https://github.com/akarshijain/daily-practice-repo/tree/master/1023-time-based-key-value-store) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akarshijain/daily-practice-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Union Find
 |  |
 | ------- |
@@ -529,6 +532,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akarshijain/daily-practice-repo/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/akarshijain/daily-practice-repo/tree/master/0621-task-scheduler) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akarshijain/daily-practice-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
 | ------- |
