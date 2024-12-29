@@ -1,33 +1,27 @@
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        adj_list = {}
+        visited = set()
 
-        for i in range(1, n + 1):
-            adj_list[i] = []
+        neighbours_map = {}
+        for i in range(1, n+1):
+            neighbours_map[i] = []
 
-        for u, v, w in times:
-            adj_list[u].append((v, w))
+        for src, dst, wt in times:
+            neighbours_map[src].append((dst, wt))
 
-        min_time = {}
-        max_delay = -1
+        signal_map = {}
         min_heap = [(0, k)]
-        heapq.heapify(min_heap)
-
+        max_delay = -1
         while min_heap:
-            weight, node = heapq.heappop(min_heap)
-            if node in min_time:
+            wt, src = heapq.heappop(min_heap)
+            if src in signal_map:
                 continue
 
-            min_time[node] = weight
-            max_delay = max(max_delay, weight)
+            signal_map[src] = wt
+            max_delay = max(max_delay, wt)
+            visited.add(src)
 
-            for nei, wei in adj_list[node]:
-                if nei not in min_time:
-                    heapq.heappush(min_heap, (weight + wei, nei))
-
-        if len(min_time) != len(adj_list):
-            return -1
-            
-        return max_delay
-            
-
+            for nei, nei_wt in neighbours_map[src]:
+                heapq.heappush(min_heap, (wt + nei_wt, nei))
+        
+        return max_delay if len(visited) == n else -1
