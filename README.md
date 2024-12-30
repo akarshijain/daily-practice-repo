@@ -39,6 +39,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0048-rotate-image](https://github.com/akarshijain/daily-practice-repo/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akarshijain/daily-practice-repo/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/akarshijain/daily-practice-repo/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/akarshijain/daily-practice-repo/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/akarshijain/daily-practice-repo/tree/master/0078-subsets) |
@@ -218,6 +219,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akarshijain/daily-practice-repo/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/akarshijain/daily-practice-repo/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/akarshijain/daily-practice-repo/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/akarshijain/daily-practice-repo/tree/master/0621-task-scheduler) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akarshijain/daily-practice-repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -315,6 +317,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0005-longest-palindromic-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/akarshijain/daily-practice-repo/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/akarshijain/daily-practice-repo/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/akarshijain/daily-practice-repo/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/akarshijain/daily-practice-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akarshijain/daily-practice-repo/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/akarshijain/daily-practice-repo/tree/master/0091-decode-ways) |
