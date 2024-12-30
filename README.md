@@ -41,6 +41,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0051-n-queens](https://github.com/akarshijain/daily-practice-repo/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/akarshijain/daily-practice-repo/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/akarshijain/daily-practice-repo/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/akarshijain/daily-practice-repo/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/akarshijain/daily-practice-repo/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
@@ -449,6 +450,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akarshijain/daily-practice-repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/akarshijain/daily-practice-repo/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/akarshijain/daily-practice-repo/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/akarshijain/daily-practice-repo/tree/master/0127-word-ladder) |
@@ -484,6 +486,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0036-valid-sudoku](https://github.com/akarshijain/daily-practice-repo/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/akarshijain/daily-practice-repo/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/akarshijain/daily-practice-repo/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/akarshijain/daily-practice-repo/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/akarshijain/daily-practice-repo/tree/master/0130-surrounded-regions) |
