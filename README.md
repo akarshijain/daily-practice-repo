@@ -39,6 +39,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0048-rotate-image](https://github.com/akarshijain/daily-practice-repo/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/akarshijain/daily-practice-repo/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akarshijain/daily-practice-repo/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/akarshijain/daily-practice-repo/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/akarshijain/daily-practice-repo/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/akarshijain/daily-practice-repo/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/akarshijain/daily-practice-repo/tree/master/0073-set-matrix-zeroes) |
@@ -320,6 +321,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0005-longest-palindromic-substring](https://github.com/akarshijain/daily-practice-repo/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/akarshijain/daily-practice-repo/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/akarshijain/daily-practice-repo/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/akarshijain/daily-practice-repo/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/akarshijain/daily-practice-repo/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/akarshijain/daily-practice-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akarshijain/daily-practice-repo/tree/master/0070-climbing-stairs) |
@@ -426,6 +428,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akarshijain/daily-practice-repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/akarshijain/daily-practice-repo/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/akarshijain/daily-practice-repo/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akarshijain/daily-practice-repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0191-number-of-1-bits) |
