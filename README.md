@@ -50,6 +50,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akarshijain/daily-practice-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/akarshijain/daily-practice-repo/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/akarshijain/daily-practice-repo/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/akarshijain/daily-practice-repo/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akarshijain/daily-practice-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/akarshijain/daily-practice-repo/tree/master/0152-maximum-product-subarray) |
@@ -220,6 +221,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0011-container-with-most-water](https://github.com/akarshijain/daily-practice-repo/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/akarshijain/daily-practice-repo/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/akarshijain/daily-practice-repo/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/akarshijain/daily-practice-repo/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/akarshijain/daily-practice-repo/tree/master/0621-task-scheduler) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akarshijain/daily-practice-repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
