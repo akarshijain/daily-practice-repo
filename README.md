@@ -53,6 +53,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0128-longest-consecutive-sequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/akarshijain/daily-practice-repo/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/akarshijain/daily-practice-repo/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/akarshijain/daily-practice-repo/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/akarshijain/daily-practice-repo/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akarshijain/daily-practice-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/akarshijain/daily-practice-repo/tree/master/0152-maximum-product-subarray) |
@@ -593,6 +594,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0067-add-binary](https://github.com/akarshijain/daily-practice-repo/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/akarshijain/daily-practice-repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/akarshijain/daily-practice-repo/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/akarshijain/daily-practice-repo/tree/master/0268-missing-number) |
