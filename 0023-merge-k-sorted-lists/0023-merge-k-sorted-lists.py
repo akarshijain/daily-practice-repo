@@ -41,7 +41,7 @@ class Solution:
         while len(list_q) > 1:
             list1 = list_q.popleft()
             list2 = list_q.popleft() if list_q else None
-            merged_list = self.merge_two_lists(list1, list2)
-            list_q.append(merged_list)
+            # merged_list = self.merge_two_lists(list1, list2)
+            list_q.append(self.merge_two_lists(list1, list2))
 
         return list_q[0]
