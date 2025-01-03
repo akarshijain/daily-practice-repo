@@ -95,6 +95,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akarshijain/daily-practice-repo/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1706-min-cost-to-connect-all-points](https://github.com/akarshijain/daily-practice-repo/tree/master/1706-min-cost-to-connect-all-points) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akarshijain/daily-practice-repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2358-number-of-ways-to-split-array](https://github.com/akarshijain/daily-practice-repo/tree/master/2358-number-of-ways-to-split-array) |
 | [3639-zero-array-transformation-i](https://github.com/akarshijain/daily-practice-repo/tree/master/3639-zero-array-transformation-i) |
 ## Sorting
 |  |
@@ -562,6 +563,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akarshijain/daily-practice-repo/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/akarshijain/daily-practice-repo/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/akarshijain/daily-practice-repo/tree/master/2358-number-of-ways-to-split-array) |
 | [3639-zero-array-transformation-i](https://github.com/akarshijain/daily-practice-repo/tree/master/3639-zero-array-transformation-i) |
 ## Recursion
 |  |
