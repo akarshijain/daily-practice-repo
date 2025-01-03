@@ -178,6 +178,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0002-add-two-numbers](https://github.com/akarshijain/daily-practice-repo/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/akarshijain/daily-practice-repo/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/akarshijain/daily-practice-repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/akarshijain/daily-practice-repo/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/akarshijain/daily-practice-repo/tree/master/0146-lru-cache) |
@@ -464,6 +465,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0127-word-ladder](https://github.com/akarshijain/daily-practice-repo/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/akarshijain/daily-practice-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/akarshijain/daily-practice-repo/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/akarshijain/daily-practice-repo/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/akarshijain/daily-practice-repo/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/akarshijain/daily-practice-repo/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/akarshijain/daily-practice-repo/tree/master/0146-lru-cache) |
