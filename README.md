@@ -165,6 +165,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [1250-longest-common-subsequence](https://github.com/akarshijain/daily-practice-repo/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/akarshijain/daily-practice-repo/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/akarshijain/daily-practice-repo/tree/master/1894-merge-strings-alternately) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/akarshijain/daily-practice-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akarshijain/daily-practice-repo/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Simulation
 |  |
@@ -480,6 +481,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [1023-time-based-key-value-store](https://github.com/akarshijain/daily-practice-repo/tree/master/1023-time-based-key-value-store) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/akarshijain/daily-practice-repo/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akarshijain/daily-practice-repo/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/akarshijain/daily-practice-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Union Find
 |  |
 | ------- |
@@ -567,6 +569,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/akarshijain/daily-practice-repo/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/akarshijain/daily-practice-repo/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/akarshijain/daily-practice-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/akarshijain/daily-practice-repo/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akarshijain/daily-practice-repo/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3639-zero-array-transformation-i](https://github.com/akarshijain/daily-practice-repo/tree/master/3639-zero-array-transformation-i) |
@@ -610,6 +613,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0338-counting-bits](https://github.com/akarshijain/daily-practice-repo/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/akarshijain/daily-practice-repo/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/akarshijain/daily-practice-repo/tree/master/0645-set-mismatch) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/akarshijain/daily-practice-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Shortest Path
 |  |
 | ------- |
