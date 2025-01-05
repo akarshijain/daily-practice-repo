@@ -210,6 +210,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0271-encode-and-decode-strings](https://github.com/akarshijain/daily-practice-repo/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0359-logger-rate-limiter](https://github.com/akarshijain/daily-practice-repo/tree/master/0359-logger-rate-limiter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/akarshijain/daily-practice-repo/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
@@ -222,6 +223,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0295-find-median-from-data-stream) |
+| [0359-logger-rate-limiter](https://github.com/akarshijain/daily-practice-repo/tree/master/0359-logger-rate-limiter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 ## Queue
@@ -478,6 +480,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0242-valid-anagram](https://github.com/akarshijain/daily-practice-repo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akarshijain/daily-practice-repo/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akarshijain/daily-practice-repo/tree/master/0347-top-k-frequent-elements) |
+| [0359-logger-rate-limiter](https://github.com/akarshijain/daily-practice-repo/tree/master/0359-logger-rate-limiter) |
 | [0389-find-the-difference](https://github.com/akarshijain/daily-practice-repo/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/akarshijain/daily-practice-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/akarshijain/daily-practice-repo/tree/master/0621-task-scheduler) |
