@@ -184,6 +184,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0143-reorder-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/akarshijain/daily-practice-repo/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/akarshijain/daily-practice-repo/tree/master/0206-reverse-linked-list) |
+| [0382-linked-list-random-node](https://github.com/akarshijain/daily-practice-repo/tree/master/0382-linked-list-random-node) |
 | [1582-design-browser-history](https://github.com/akarshijain/daily-practice-repo/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
@@ -321,6 +322,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0070-climbing-stairs](https://github.com/akarshijain/daily-practice-repo/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akarshijain/daily-practice-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/akarshijain/daily-practice-repo/tree/master/0268-missing-number) |
+| [0382-linked-list-random-node](https://github.com/akarshijain/daily-practice-repo/tree/master/0382-linked-list-random-node) |
 | [1014-k-closest-points-to-origin](https://github.com/akarshijain/daily-practice-repo/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -622,4 +624,12 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/akarshijain/daily-practice-repo/tree/master/1706-min-cost-to-connect-all-points) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/akarshijain/daily-practice-repo/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/akarshijain/daily-practice-repo/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
