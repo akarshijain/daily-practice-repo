@@ -99,6 +99,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [2358-number-of-ways-to-split-array](https://github.com/akarshijain/daily-practice-repo/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akarshijain/daily-practice-repo/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/akarshijain/daily-practice-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3639-zero-array-transformation-i](https://github.com/akarshijain/daily-practice-repo/tree/master/3639-zero-array-transformation-i) |
 ## Sorting
 |  |
@@ -171,6 +172,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/akarshijain/daily-practice-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akarshijain/daily-practice-repo/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/akarshijain/daily-practice-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Simulation
 |  |
 | ------- |
@@ -538,10 +540,12 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0572-subtree-of-another-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/akarshijain/daily-practice-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0572-subtree-of-another-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/akarshijain/daily-practice-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -611,6 +615,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | ------- |
 | [0139-word-break](https://github.com/akarshijain/daily-practice-repo/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0208-implement-trie-prefix-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/akarshijain/daily-practice-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -641,4 +646,8 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/akarshijain/daily-practice-repo/tree/master/0382-linked-list-random-node) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/akarshijain/daily-practice-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
