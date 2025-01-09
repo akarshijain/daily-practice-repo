@@ -97,6 +97,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [1706-min-cost-to-connect-all-points](https://github.com/akarshijain/daily-practice-repo/tree/master/1706-min-cost-to-connect-all-points) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akarshijain/daily-practice-repo/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akarshijain/daily-practice-repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/akarshijain/daily-practice-repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/akarshijain/daily-practice-repo/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akarshijain/daily-practice-repo/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -171,6 +172,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [1894-merge-strings-alternately](https://github.com/akarshijain/daily-practice-repo/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akarshijain/daily-practice-repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/akarshijain/daily-practice-repo/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/akarshijain/daily-practice-repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/akarshijain/daily-practice-repo/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akarshijain/daily-practice-repo/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akarshijain/daily-practice-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -542,6 +544,7 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0572-subtree-of-another-tree) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/akarshijain/daily-practice-repo/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akarshijain/daily-practice-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
