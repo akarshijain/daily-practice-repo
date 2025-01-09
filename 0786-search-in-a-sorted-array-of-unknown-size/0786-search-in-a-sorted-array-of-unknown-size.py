@@ -9,7 +9,7 @@ class Solution:
     def search(self, reader: 'ArrayReader', target: int) -> int:
         first_out_of_bound_index = 1
 
-        while reader.get(first_out_of_bound_index) != 2**31 - 1:
+        while reader.get(first_out_of_bound_index) != 2**31 - 1 or reader.get(first_out_of_bound_index) <= target:
             first_out_of_bound_index *= 2
 
         left, right = 0, first_out_of_bound_index - 1
