@@ -79,6 +79,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0695-max-area-of-island](https://github.com/akarshijain/daily-practice-repo/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akarshijain/daily-practice-repo/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/akarshijain/daily-practice-repo/tree/master/0739-daily-temperatures) |
+| [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/akarshijain/daily-practice-repo/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0792-binary-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/akarshijain/daily-practice-repo/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/akarshijain/daily-practice-repo/tree/master/0907-koko-eating-bananas) |
@@ -288,6 +289,7 @@ This is a live repo and will be updated as more content is added and new learnin
 | [0450-delete-node-in-a-bst](https://github.com/akarshijain/daily-practice-repo/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/akarshijain/daily-practice-repo/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/akarshijain/daily-practice-repo/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akarshijain/daily-practice-repo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/akarshijain/daily-practice-repo/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/akarshijain/daily-practice-repo/tree/master/0907-koko-eating-bananas) |
@@ -650,4 +652,8 @@ This is a live repo and will be updated as more content is added and new learnin
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akarshijain/daily-practice-repo/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Interactive
+|  |
+| ------- |
+| [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/akarshijain/daily-practice-repo/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 <!---LeetCode Topics End-->
